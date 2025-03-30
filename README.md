@@ -54,17 +54,13 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritinagi&show_icons=true&hide=prs&count_private=true&theme=radical" alt="pritinagi's GitHub Stats"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritinagi&theme=radical" alt="Priti's GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritinagi&layout=compact&theme=radical" alt="Priti's Top Languages"/>
-</p>
+
 
 ---
 
