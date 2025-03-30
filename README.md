@@ -18,7 +18,7 @@
 ### 🧑‍💻 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/pritinagi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritinagi" height="30" width="40" />
+    <img align="center" src="www.linkedin.com/in/priti-nagi" alt="pritinagi" height="30" width="40" />
   </a>
 </p>
 
