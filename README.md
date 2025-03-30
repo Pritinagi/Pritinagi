@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=pritinagi&label=Profile%20views&color=0e75b6&style=flat" alt="pritinagi" />
 </p>
 
---
+---
 
 ### 🚀 About Me
 - **Full Stack Developer** | Passionate about building **dynamic, user-centric web applications**.
@@ -13,7 +13,7 @@
 - 🌱 Currently learning **React**, **Vite**, and **Modern Web Development Techniques**.
 - 📫 Reach me at **pritinagig9494@gmail.com**
 
---
+---
 
 ### 🧑‍💻 Connect with Me:
 <p align="center">
