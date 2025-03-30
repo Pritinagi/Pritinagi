@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  Hi, I'm Priti 👋  <br>
+  <h2>Hi, I'm Priti</h2> 👋  <br>
 Web Developer | Passionate About Building Scalable & Impactful Solutions
 </p>
 <p align="center">
