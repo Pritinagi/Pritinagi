@@ -49,10 +49,10 @@ Web Developer | Passionate About Building Scalable & Impactful Solutions
 
 ### 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritinagi&show_icons=true&locale=en)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pritinagi&show_icons=true&locale=en" alt="GitHub Stats"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritinagi)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritinagi" alt="GitHub Streak"/>
 
 
 ---
