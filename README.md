@@ -1,7 +1,7 @@
 
 
 
-  <h1 align=""center>Hi, I'm Priti  👋</h1>  <br>
+  <h1 align="center">Hi, I'm Priti  👋</h1>  <br>
   <p align="center">
 Web Developer | Passionate About Building Scalable & Impactful Solutions
 </p>
@@ -49,13 +49,11 @@ Web Developer | Passionate About Building Scalable & Impactful Solutions
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritinagi&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
 
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pritinagi&show_icons=true&locale=en" alt="GitHub Stats"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritinagi" alt="GitHub Streak"/>
-</p>
+
 
 ---
 
