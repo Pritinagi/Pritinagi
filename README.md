@@ -5,8 +5,8 @@
   <p align="center">
 Web Developer | Passionate About Building Scalable & Impactful Solutions
 </p>
-<p style="text-align: center; margin: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=pritinagi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 10px; background-color: #f0f8ff; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pritinagi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 
