@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Zero%20to%20Hero%20DE%20Journey-Day%200%20of%20270-4CAF50?style=for-the-badge" alt="DE Journey Progress"/>
-  <br><small>Started November 2025 • Germany bound</small>
+  <br><small>Started November 2025 </small>
 </p>
 
 ---
@@ -28,8 +28,6 @@
 
 ### 🌱 Current Journey
 - Transforming from full-stack web development into modern **Data Engineering**
-- 6–9 month Zero-to-Hero roadmap: Python → SQL → Docker → Airflow → Spark → Cloud
-- End goal: Job-ready Data Engineer + Master’s in Germany
 
 ---
 
