@@ -1,52 +1,45 @@
-<h1 align="center">🌟 Priti | Web Developer 🚀</h1>
+<h1 align="center">Hi, I'm Priti 👋</h1>
+
 <p align="center">
-  <em>Creative Thinker. Clean Coder. Problem Solver.</em>  
+  <strong>Web Developer</strong> → <strong>Data Engineer in the making</strong><br>
+  <em>Clean code today. Clean pipelines tomorrow.</em>
+</p>
+
+<p align="center">
+  <strong>Building the future of data, one pipeline at a time 🚀</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Zero%20to%20Hero%20DE%20Journey-Day%200%20of%20270-4CAF50?style=for-the-badge" alt="DE Journey Progress"/>
+  <br><small>Started November 2025 • Germany bound</small>
 </p>
 
 ---
 
-## 👋 About Me
+### 🛠 Tech Stack
 
-Hey there! I'm **Priti**, a passionate and performance-driven **Web Developer** focused on building sleek, scalable, and impact-oriented web applications.
-
-I love taking real-world problems and crafting fast, responsive solutions using modern tools — all with a strong eye for **clean code** and **great UX**.
-
-### 💭 What drives me?
-> “Simplicity, Performance, and Purposeful Design.”
+| Current (Proficient)                          | Learning / Target (Data Engineering)                              |
+|-----------------------------------------------|-------------------------------------------------------------------|
+| ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) |
+| ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![dbt](https://img.shields.io/badge/dbt-F46A25?style=flat) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) |
 
 ---
 
-## 🔧 Tech Toolbox
+### 🌱 Current Journey
+- Transforming from full-stack web development into modern **Data Engineering**
+- 6–9 month Zero-to-Hero roadmap: Python → SQL → Docker → Airflow → Spark → Cloud
+- End goal: Job-ready Data Engineer + Master’s in Germany
 
+---
+
+### 📬 Let’s Connect
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <a href="mailto:pritinagig9494@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/pritinagi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/pritinagi"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
----
-
-## 🚀 Current Focus
-
-- ⚙️ Serverless & scalable backend architecture  
-- ⚛️ Advanced React patterns & component design  
-- 📈 Building full-stack apps that are blazing-fast and intuitive
-
----
-
-## 🌐 Let’s Connect
-
 <p align="center">
-  <a href="mailto:pritinagig9494@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/pritinagi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/pritinagi" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <em>“Great systems are built by people who never stop learning.”</em>
 </p>
-
----
-
-<h3 align="center">💬 “Code with Purpose. Build with Passion.” 💬</h3>
