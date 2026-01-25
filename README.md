@@ -1,52 +1,56 @@
-<h1 align="center">🌟 Priti | Web Developer 🚀</h1>
-<p align="center">
-  <em>Creative Thinker. Clean Coder. Problem Solver.</em>  
-</p>
+# Hi, I'm Priti! 👋
 
----
+**Aspiring Data Engineer** | Transitioning from Web Development  
+SQL Enthusiast • Python Builder • Crafting my first reliable data pipelines
 
-## 👋 About Me
+I'm Priti — formerly a web developer (React, Django, etc.), now fully hooked on **data engineering**.  
+I love taking messy raw data, cleaning it, transforming it, and building processes that make insights possible and reliable.
 
-Hey there! I'm **Priti**, a passionate and performance-driven **Web Developer** focused on building sleek, scalable, and impact-oriented web applications.
+My core strengths right now: **SQL** (advanced queries, joins, windows, CTEs, optimization) and **Python** (pandas, ETL scripting, clean code).  
+I'm learning the ecosystem hands-on: dbt for transformations, Airflow for orchestration, Docker for reproducibility — one project at a time.
 
-I love taking real-world problems and crafting fast, responsive solutions using modern tools — all with a strong eye for **clean code** and **great UX**.
+> Clean data in → reliable pipelines out → happy teams downstream.
 
-### 💭 What drives me?
-> “Simplicity, Performance, and Purposeful Design.”
+### What I'm Working On
+- Mastering **SQL** for real-world scenarios (complex joins, CTEs, window functions, performance tuning)  
+- Writing clean **Python** scripts for data processing and transformation  
+- Building simple but solid **ETL/ELT pipelines** locally  
+- Exploring orchestration (Airflow basics) and containerization (Docker)  
+- Getting hands-on with free cloud tools when possible  
 
----
+Still early in the journey, but consistent (daily practice, weekly commits), quick to learn from bugs, and always open to feedback/code reviews.
 
-## 🔧 Tech Toolbox
+### Featured Projects
+- **[sql-practice](https://github.com/pritinagi/sql-practice)**  
+  Daily SQL grind: 100s of solved problems (basic → advanced) on real datasets. Heavy focus on joins, window functions, aggregations, subqueries, EXPLAIN plans. Explanations + optimization notes included.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+- **[dbt-postgres-ecommerce-analytics](https://github.com/pritinagi/dbt-postgres-ecommerce-analytics)** *(upcoming/early)*  
+  ELT practice on e-commerce data: staging → models → marts with dbt.  
 
----
+- Past transferable example: **[ShopLocal](https://github.com/pritinagi/ShopLocal)**  
+  Full-stack Django e-commerce app with Stripe + database integration — built solid SQL/API skills I'm now redirecting to data flows.
 
-## 🚀 Current Focus
+All repos include: clear setup guides, architecture sketches (when useful), run screenshots, failure lessons learned. Honest progress over polish.
 
-- ⚙️ Serverless & scalable backend architecture  
-- ⚛️ Advanced React patterns & component design  
-- 📈 Building full-stack apps that are blazing-fast and intuitive
+### Tech Snapshot
+**Confident**  
+- Python 🐍 (pandas, scripting, basic OOP)  
+- SQL 📊 (PostgreSQL / MySQL – queries, indexing, tuning)  
 
----
+**Actively Learning**  
+- dbt Core (models, tests, docs)  
+- Apache Airflow (DAG basics, local runs)  
+- Docker (containerizing pipelines)  
+- Git + version control workflows  
 
-## 🌐 Let’s Connect
+Previous web stack (HTML/CSS/JS/React/Bootstrap/Django) → retired and grateful for the foundation.
 
-<p align="center">
-  <a href="mailto:pritinagig9494@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/pritinagi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/pritinagi" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+### Let's Connect! 💬
+Open to **Junior / Trainee / Intern Data Engineer roles** (India-based or remote-friendly hours).  
+Also love: feedback on projects, code reviews, tips from DE folks, or just chatting about the field.
 
----
+- Email: pritinagig9494@gmail.com  
+- LinkedIn: [linkedin.com/in/pritinagi](https://linkedin.com/in/pritinagi)  
+- GitHub: Right here — dive into the repos! 😊
 
-<h3 align="center">💬 “Code with Purpose. Build with Passion.” 💬</h3>
+Thanks for stopping by. Drop a message anytime — excited to grow in data engineering! 🚀
