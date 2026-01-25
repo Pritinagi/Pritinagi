@@ -49,7 +49,7 @@ Previous web stack (HTML/CSS/JS/React/Bootstrap/Django) → retired and grateful
 Open to **Junior / Trainee / Intern Data Engineer roles** (India-based or remote-friendly hours).  
 Also love: feedback on projects, code reviews, tips from DE folks, or just chatting about the field.
 
-- Email: pritinagig9494@gmail.com  
+- Email: connect.pritinagi@gmail.com  
 - LinkedIn: [linkedin.com/in/pritinagi](https://linkedin.com/in/pritinagi)  
 - GitHub: Right here — dive into the repos! 😊
 
